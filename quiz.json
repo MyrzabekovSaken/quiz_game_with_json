@@ -1,0 +1,47 @@
+[
+  {
+    "question": "This football team won World Cup 2022?",
+    "options": {
+      "a": "Argentina",
+      "b": "France",
+      "c": "Croatia"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "This football team won in Champions League 2021/2022?",
+    "options": {
+      "a": "Liverpool",
+      "b": "PSG",
+      "c": "Real Madrid"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "This runner broken world record in Berlin 2022 year?",
+    "options": {
+      "a": "Mo Farah",
+      "b": "Eliud Kipchoge",
+      "c": "Kenenise Bekele"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "She is a won 'Indian Wells Masters' in 2023 year?",
+    "options": {
+      "a": "Sabalenka Aryna",
+      "b": "Swiatek Iga",
+      "c": "Rybakina Elena"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "He is a spanish professional tennis player who have a record in Grand Slam men's single titles?",
+    "options": {
+      "a": "Rafael Nadal",
+      "b": "Novak Djokovic",
+      "c": "Carlos Alcaraz"
+    },
+    "answer": "a"
+  }
+]
